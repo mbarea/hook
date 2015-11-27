@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo 'HOLA PROFE :D';
+        echo 'Hasta aquí 2,5';
         ?>
     </body>
 </html>
